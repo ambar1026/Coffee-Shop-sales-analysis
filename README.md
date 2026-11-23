@@ -67,24 +67,7 @@ Customer purchasing trends
 Seasonal and monthly sales patterns
 Store performance comparison
 Opportunities for operational improvements
-📸 Dashboard Preview
 
-Add screenshots of your Power BI dashboard here.
-
-📁 Repository Structure
-Coffee-Shop-Sales-Analysis/
-│
-├── SQL/
-│   ├── Data_Cleaning.sql
-│   ├── Analysis_Queries.sql
-│
-├── PowerBI/
-│   ├── Coffee_Shop_Sales.pbix
-│
-├── Images/
-│   ├── Dashboard_Screenshot.png
-│
-└── README.md
 
 📚 Skills Demonstrated
 SQL Querying
